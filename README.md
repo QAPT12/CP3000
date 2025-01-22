@@ -12,3 +12,6 @@ to install packages to the venv run: \
 
 To update/ freeze current packages into the requirements.txt run: \
 `pip freeze > requirements.txt`
+
+### Assignment 01
+Need to download CSV file from D2L when running, it is too big to put on github.
