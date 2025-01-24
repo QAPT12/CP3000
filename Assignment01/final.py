@@ -29,7 +29,7 @@ pd.set_option('display.max_columns', None )
 import warnings                                                     # Importing warning to disable runtime warnings
 warnings.filterwarnings("ignore")
 #Change the file Path as per your needs
-data = pd.read_csv('Assignment01/creditcard_2023.csv')
+data = pd.read_csv('csv/creditcard_2023.csv')
 
 
 all(data.index == data.id)
